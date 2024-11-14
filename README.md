@@ -32,8 +32,8 @@ This repository provides Google Colab notebooks for advanced time series forecas
 
 1. **Clone the Repository**: Clone this repository to access the notebooks.
    ```bash
-   git clone <repo_url>
-   cd <repo_name>
+   git clone https://github.com/Mohib1402/TimeGPT_Tabluar_RDL.git
+   cd TimeGPT_Tabluar_RDL
    ```
 2. **Run Notebooks in Colab**: Open each notebook in Google Colab by clicking the links provided above.
 
