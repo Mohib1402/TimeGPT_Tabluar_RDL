@@ -10,13 +10,13 @@ This repository provides Google Colab notebooks for advanced time series forecas
   - **Multivariate Forecasting & Long-Horizon Prediction**: Explore multivariate forecasting and long-horizon prediction with example time series data.
     - [Notebook Link](https://colab.research.google.com/drive/1B41MHF-6AZrgCxRJWRSsXbB9P3SSYmNt?usp=sharing)
   - **Fine-Tuning with Custom Data**: Fine-tune TimeGPT with custom datasets.
-    - [Notebook Link](https://docs.nixtla.io/docs/tutorials-fine_tuning)
+    - [Notebook Link](https://colab.research.google.com/drive/1EnPDZf5WIjD1DDMkAKJcS9nnSCn-Kpj4?usp=sharing)
   - **Anomaly Detection**: Apply TimeGPT for anomaly detection on time series data.
-    - [Notebook Link](https://docs.nixtla.io/docs/tutorials-anomaly_detection)
+    - [Notebook Link](https://colab.research.google.com/drive/1ymjX-lljdfnh-XeNzVfd4ZL9du2KP7FN?usp=sharing)
   - **Energy Demand Forecasting**: Use TimeGPT to forecast energy demand.
-    - [Notebook Link](https://docs.nixtla.io/docs/use-cases-forecasting_energy_demand)
+    - [Notebook Link](https://colab.research.google.com/drive/1wohqbd87OYBjdTIRP6r4GWR4B0gjlHvG?usp=sharing)
   - **Bitcoin Price Forecasting**: Leverage TimeGPT for bitcoin price prediction.
-    - [Notebook Link](https://docs.nixtla.io/docs/use-cases-bitcoin_price_prediction)
+    - [Notebook Link](https://colab.research.google.com/drive/1E9cAtplJM8_egnRi3zlcudsRdulmX3NH?usp=sharing)
 
 - **Tabula**
   - **Synthetic Data Generation**: Generate synthetic data from real datasets for exploratory and privacy-preserving use.
