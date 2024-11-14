@@ -8,7 +8,7 @@ This repository provides Google Colab notebooks for advanced time series forecas
 
 - **TimeGPT**
   - **Multivariate Forecasting & Long-Horizon Prediction**: Explore multivariate forecasting and long-horizon prediction with example time series data.
-    - [Notebook Link](https://colab.research.google.com/github/Nixtla/nixtla/blob/main/nbs/docs/tutorials/05_multiple_series.ipynb)
+    - [Notebook Link](https://colab.research.google.com/drive/1B41MHF-6AZrgCxRJWRSsXbB9P3SSYmNt?usp=sharing)
   - **Fine-Tuning with Custom Data**: Fine-tune TimeGPT with custom datasets.
     - [Notebook Link](https://docs.nixtla.io/docs/tutorials-fine_tuning)
   - **Anomaly Detection**: Apply TimeGPT for anomaly detection on time series data.
